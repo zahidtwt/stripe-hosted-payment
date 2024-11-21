@@ -3,7 +3,7 @@ Contributors: zahidui
 Tags: stripe, payment, woocommerce
 Requires at least: 5.0
 Tested up to: 6.4
-Stable tag: 1.0.01
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
