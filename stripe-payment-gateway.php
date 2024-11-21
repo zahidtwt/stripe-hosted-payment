@@ -52,7 +52,7 @@ function init_stripe_plugin_updater() {
     // Check if Composer autoload exists
     if (class_exists('Puc_v4_Factory')) {
         $updater = Puc_v4_Factory::buildUpdateChecker(
-            'https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME/',
+            'https://github.com/zahidtwt/stripe-hosted-payment',
             __FILE__,
             'stripe-hosted-payment-by-z'
         );
